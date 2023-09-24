@@ -1,0 +1,9 @@
+{
+  "name": "DiscordNotifier",
+  "version_number": "1.0.0",
+  "website_url": "https://discord.gg/pdHgy6Bsng",
+  "description": "Simple mod that sends game events to discord. Limited to Player joins at the moment.",
+  "dependencies": [
+    "SunkenlandModding-BepInExPack_Sunkenland-5.4.22"
+  ]
+}
